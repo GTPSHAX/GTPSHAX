@@ -1,5 +1,9 @@
 <img src="assets/images/main-banner.webp" alt="Main banner" style="width: 100%; max-height: 500px;"/>
 
+<!--- Social buttons --->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+</div>
+
 - 👋 Hi, I’m @GTPSHAX
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning HTML and CSS
