@@ -18,7 +18,7 @@
 <!-- About me -->
 <h2 align="center">Stats</h2>
 
-| <img src="https://github-readme-stats-mu-lemon-86.vercel.app/api?username=gtpshax&hide_border=true&show_icons=true&theme=transparent&title_color=F63049&icon_color=D02752&text_color=D02752&include_all_commits=true" alt="Anurag's GitHub stats"> | <img src="https://github-profile-trophy-147r.vercel.app/?username=gtpshax&theme=dark_lover&column=5&margin-w=15&margin-h=15" alt="trophy"> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-mu-lemon-86.vercel.app/api?username=gtpshax&hide_border=true&show_icons=true&theme=transparent&title_color=F63049&icon_color=D02752&text_color=D02752&include_all_commits=true" alt="Anurag's GitHub stats"></a> | <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-147r.vercel.app/?username=gtpshax&theme=dark_lover&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=-Followers" alt="trophy"></a>|
 |---|---:|
 
 <!---
