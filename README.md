@@ -3,14 +3,7 @@
 
 <h1 align="center">Make dreams come true</h1>
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ea unde amet totam dolorum harum fugiat, sit optio dolores, magnam, quidem natus provident nihil distinctio aspernatur ut officia! Deleniti, quos.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Iusto corrupti nesciunt doloremque quasi beatae, sit sunt illo nobis tempora excepturi obcaecati quia cumque voluptas nemo possimus exercitationem, culpa voluptates ab quae! Harum similique odio dolorem nam autem laboriosam.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Iusto tenetur adipisci magnam accusantium officia, ipsam ea quis aperiam libero at? Voluptatibus vero aliquam nulla ex cum, alias necessitatibus omnis ea iste praesentium, nesciunt iure? Iste aliquam modi unde?
+  Hello, I’m <b>Rafie Hasannudin</b> from <u>Central Java, Indonesia</u>. I’m passionate about web development and software engineering, turning ideas into polished apps. Right now I’m sharpening my TypeScript skills for front-end work and studying C++ to strengthen problem-solving and system-level knowledge. My goal is to contribute to meaningful open-source projects and grow as an engineer.
 </p>
 
 <!--- Social buttons --->
