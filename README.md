@@ -1,7 +1,12 @@
 <img src="assets/images/main-banner.webp" alt="Main banner" style="width: 100%; max-height: 500px;"/>
+<hr style="border: solid #810000 1px; margin: 1rem 0;">
 
 <!--- Social buttons --->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 1rem; background: linear-gradient(black, #2D0016); padding: 2px; border: solid #810000 1px;">
+  <a href="https://discord.com/users/691148414641111121" target="_blank">
+    <img src="assets/images/discord-icon.webp" alt="My discord profile" width="50" style="border: solid #810000 1px">
+  </a>
+  <!-- <img src="assets/images/discord-icon.webp" alt="My discord profile" width="50" style="border: solid #810000 1px"> -->
 </div>
 
 - 👋 Hi, I’m @GTPSHAX
