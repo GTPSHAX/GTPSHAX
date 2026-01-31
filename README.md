@@ -17,9 +17,14 @@
   </a>
 </div>
 
-- 👋 Hi, I’m @GTPSHAX
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML and CSS
+<!-- About me -->
+<h2 align="center">About Me</h2>
+```json
+{
+  "name": "Rafie Hasannudin",
+  "location": "Central Java, Indonesia"
+}
+```
 
 <!---
 GTPSHAX/GTPSHAX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
