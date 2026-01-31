@@ -9,7 +9,7 @@
 <!--- Social buttons --->
 <h2 align="center">Connect with me</h2>
 
-| <a href="https://discord.com/users/691148414641111121" target="_blank" style="all: unset;"><center><img src="assets/images/discord-icon.webp" alt="My discord profile" width="40" height="40" style="border: solid #810000 1px"/><br><p>GTPSHAX</p></a></center></a>
+| <div align="center"><a href="https://discord.com/users/691148414641111121" target="_blank" rel="noopener noreferrer" style="all:unset"><img src="assets/images/discord-icon.webp" alt="Discord — Rafie" width="40" height="40" style="border: solid #810000 1px; display:block; margin:0 auto;"><div>GTPSHAX</div></a></div>
 |---:|
 
 <!-- About me -->
