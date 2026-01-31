@@ -2,7 +2,7 @@
 <img src="assets/images/main-banner.webp" alt="Main banner" style="width: 100%; max-height: 500px;"/>
 
 <h1 align="center">Make dreams come true</h1>
-<p align="justify" style="text-indent: 3rem;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ea unde amet totam dolorum harum fugiat, sit optio dolores, magnam, quidem natus provident nihil distinctio aspernatur ut officia! Deleniti, quos.
+<p align="justify" style="text-indent: 3rem;">&nbsp;Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ea unde amet totam dolorum harum fugiat, sit optio dolores, magnam, quidem natus provident nihil distinctio aspernatur ut officia! Deleniti, quos.
 Iusto corrupti nesciunt doloremque quasi beatae, sit sunt illo nobis tempora excepturi obcaecati quia cumque voluptas nemo possimus exercitationem, culpa voluptates ab quae! Harum similique odio dolorem nam autem laboriosam.
 Iusto tenetur adipisci magnam accusantium officia, ipsam ea quis aperiam libero at? Voluptatibus vero aliquam nulla ex cum, alias necessitatibus omnis ea iste praesentium, nesciunt iure? Iste aliquam modi unde?</p>
 
