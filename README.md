@@ -6,6 +6,18 @@
   Hello, I’m <b>Rafie Hasannudin</b> from <u>Central Java, Indonesia</u>. I’m passionate about web development and software engineering, turning ideas into polished apps. Right now I’m sharpening my TypeScript skills for front-end work and studying C++ to strengthen problem-solving and system-level knowledge. My goal is to contribute to meaningful open-source projects and grow as an engineer.
 </p>
 
+<!--- Social buttons --->
+<h2 align="center">Connect with me</h2>
+<div>
+  <a href="https://discord.com/users/691148414641111121" target="_blank" style="all: unset;">
+    <img src="assets/images/discord-icon.webp" alt="My discord profile" width="40" height="40" style="border: solid #810000 1px"/>
+    <img src="assets/images/discord-icon.webp" alt="My discord profile" width="40" height="40" style="border: solid #810000 1px"/>
+  </a>
+</div>
+
+<!-- About me -->
+<h2 align="center">Stats</h2>
+
 [![trophy](https://github-profile-trophy-147r.vercel.app/?username=gtpshax&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
