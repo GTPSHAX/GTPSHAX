@@ -19,7 +19,7 @@
 
 <!-- About me -->
 <h2 align="center">Stats</h2>
-<center>[![trophy](https://github-profile-trophy.vercel.app/?username=gtpshax&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)</center>
+[![trophy](https://github-profile-trophy-147r.vercel.app/?username=gtpshax&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 GTPSHAX/GTPSHAX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
