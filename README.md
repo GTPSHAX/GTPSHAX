@@ -1,3 +1,5 @@
+<img href="assets/images/main-banner.webp" alt="Main banner" style="width: 100%; max-height: 500px;"/>
+
 - 👋 Hi, I’m @GTPSHAX
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning HTML and CSS
