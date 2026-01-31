@@ -2,11 +2,9 @@
 <img src="assets/images/main-banner.webp" alt="Main banner" style="width: 100%; max-height: 500px;"/>
 
 <h1 align="center">Make dreams come true</h1>
-<p align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque ipsa nostrum aut similique dolorum tenetur quos natus rerum voluptates minima nulla, quasi odio beatae, eaque in voluptatem asperiores at repellendus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut repudiandae magni esse beatae incidunt enim voluptates nesciunt aspernatur culpa quos laborum corporis molestias dolor quam, cum error tempora et sequi!
-Error perspiciatis labore incidunt quo adipisci? Dolorum voluptatem, necessitatibus molestiae minus odio ipsum commodi architecto ratione, autem qui praesentium exercitationem deleniti doloremque quia rem impedit magnam voluptatum quisquam officiis consequuntur?
-Perspiciatis enim nesciunt reiciendis, perferendis, non exercitationem quis, omnis suscipit eum corporis soluta reprehenderit natus eveniet? Repellat culpa provident, eum assumenda, itaque iusto asperiores illo deleniti praesentium nihil voluptatum molestiae.
-Voluptate similique eligendi itaque recusandae qui, eum ipsa quasi et distinctio quidem repellat architecto suscipit, ipsum molestias quisquam ex officia esse molestiae. Vitae iure officia amet consectetur veniam illum laboriosam!
-Nostrum nemo, saepe praesentium nisi possimus sequi est blanditiis tenetur eum aspernatur amet deserunt quia quod accusantium! Impedit, ipsam quaerat! Fugit corrupti veniam dignissimos dicta ad nulla dolores cupiditate aliquid?</p>
+<p align="justify" style="text-indent: 3rem;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ea unde amet totam dolorum harum fugiat, sit optio dolores, magnam, quidem natus provident nihil distinctio aspernatur ut officia! Deleniti, quos.
+Iusto corrupti nesciunt doloremque quasi beatae, sit sunt illo nobis tempora excepturi obcaecati quia cumque voluptas nemo possimus exercitationem, culpa voluptates ab quae! Harum similique odio dolorem nam autem laboriosam.
+Iusto tenetur adipisci magnam accusantium officia, ipsam ea quis aperiam libero at? Voluptatibus vero aliquam nulla ex cum, alias necessitatibus omnis ea iste praesentium, nesciunt iure? Iste aliquam modi unde?</p>
 
 <!--- Social buttons --->
 <h2 align="center">Connect with me</h2>
