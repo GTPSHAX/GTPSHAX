@@ -8,6 +8,9 @@
   <a href="https://discord.com/users/691148414641111121" target="_blank" style="all: unset;">
     <img src="assets/images/discord-icon.webp" alt="My discord profile" width="50" height="50" style="border: solid #810000 1px">
   </a>
+  <a href="https://discord.com/users/691148414641111121" target="_blank" style="all: unset;">
+    <img src="assets/images/discord-icon.webp" alt="My discord profile" width="50" height="50" style="border: solid #810000 1px">
+  </a>
 </div>
 
 - 👋 Hi, I’m @GTPSHAX
