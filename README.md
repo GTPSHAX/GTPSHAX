@@ -1,7 +1,7 @@
 <!-- Main banner -->
 <img src="assets/images/main-banner.webp" alt="Main banner" style="width: 100%; max-height: 500px;"/>
 
-<hr style="border: solid #810000 1px; margin: 1rem 0;">
+<h2 style="text-align: center;">Make dreams come true</h2>
 
 <!--- Social buttons --->
 <div>
