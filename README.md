@@ -1,15 +1,6 @@
-<style>
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', monospace;
-    color: white;
-    background-color: black;
-  }
-</style>
-
+<!-- Main banner -->
 <img src="assets/images/main-banner.webp" alt="Main banner" style="width: 100%; max-height: 500px;"/>
+
 <hr style="border: solid #810000 1px; margin: 1rem 0;">
 
 <!--- Social buttons --->
